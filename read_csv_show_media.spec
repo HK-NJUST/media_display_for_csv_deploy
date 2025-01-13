@@ -5,7 +5,7 @@ a = Analysis(
     ['read_csv_show_media.py'],
     pathex=[],
     binaries=[],
-    datas=[('templates', 'templates')],
+    datas=[('templates', 'templates'), ('static', 'static')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

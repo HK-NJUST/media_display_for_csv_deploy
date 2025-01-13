@@ -1,4 +1,4 @@
-('/Users/kai.han/Desktop/python_dir/build/read_csv_show_media/PYZ-00.pyz',
+('/Users/kai.han/Desktop/csv_read_project/build/read_csv_show_media/PYZ-00.pyz',
  [('PIL', '/usr/local/lib/python3.9/site-packages/PIL/__init__.py', 'PYMODULE'),
   ('PIL.BlpImagePlugin',
    '/usr/local/lib/python3.9/site-packages/PIL/BlpImagePlugin.py',
